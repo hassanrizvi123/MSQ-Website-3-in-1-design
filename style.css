@@ -1,5 +1,5 @@
 :root {
-    --primary: #3496D8;
+    --primary: #163c6d;
     --secondary: #2c3e50;
     --accent: #e74c3c;
     --light: #ecf0f1;
@@ -674,4 +674,5 @@ footer {
     .floating-products {
         display: none;
     }
+
 }
